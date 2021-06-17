@@ -1,0 +1,6 @@
+{
+    "mongoURI":"mongodb://localhost:27017/socialblade",
+    "jwtSecret":"mysecrettoken",
+    "githubClientId":"5a6cb883837816b8cc23",
+    "githubSecret":"cd249dd8ed039a31d10ab4859e2b56ba6c29daef"
+}
